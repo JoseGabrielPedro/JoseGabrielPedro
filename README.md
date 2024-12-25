@@ -1,9 +1,9 @@
 ### 𝙊𝙡𝙖́ 𝙚𝙪 𝙨𝙤𝙪 𝙤 𝙜𝙖𝙗𝙧𝙞𝙚𝙡 𝙥𝙚𝙙𝙧𝙤 
 
 - 🌱 I’m currently learning: HTML + CSS
-- 👯 I’m looking to collaborate on: Vitoria
 - 🤔 I’m looking for help with: Programming
-
+- 👯 I’m looking to collaborate With Someone
+  
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoseGabrielPedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
